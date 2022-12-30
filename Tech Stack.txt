@@ -1,0 +1,17 @@
+This is the stuff we'll be using for the web dev of our project 
+
+
+Version control:
+Git - Git Hub
+
+
+Forntend -
+1)html
+2)Css
+3)Javascript :- Thapa technical -https://www.youtube.com/watch?v=KGkiIBTq0y0
+Code with harry:https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+https://www.youtube.com/watch?v=KGkiIBTq0y0
+
+Backend:
+1)Mern Stack :Thapa electrical : https://www.youtube.com/watch?v=fSmp7Cv-c_0&list=PLwGdqUZWnOp3t3qT7pvAznwUDzKbhEcCc 
+2)Mysql - from mnnit classes if needed
